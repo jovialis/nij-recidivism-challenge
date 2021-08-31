@@ -1,0 +1,14 @@
+
+venv/
+
+applicants.txt
+
+results.csv
+
+test.csv
+
+codebook.pdf
+
+.idea/
+
+*.png
